@@ -19,4 +19,8 @@ public class Singleton {
         return singleton;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
